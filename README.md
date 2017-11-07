@@ -7,5 +7,6 @@ and Foundation.
 Users click on the New Quote button and it makes API call to pull JSON API.
 Once the JSON is pulled and parsed, the quote is rendered through Jquery.
 
-##Demo
-[Live Example](https://codekendo.github.io/random_quote_generator/)
+##Example
+
+[Live Demo](https://codekendo.github.io/random_quote_generator/)
